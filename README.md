@@ -18,7 +18,7 @@ conteúdo	faça um texto para ebook, com foco nas terapias integrativas para cã
 >Deixe o texto enxuto
 >Siga as normas do CRMF e CRMV-RS
 > Deixe um nome sugestivo por tópico
-Midjourney：
+
 
 ✨ Features
 Conteúdo gerado via ChatGPT
